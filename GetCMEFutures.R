@@ -1,5 +1,6 @@
 # A function to get the electric and gas futures from CME 
-# Reference: https://www.r-bloggers.com/using-rvest-to-scrape-an-html-table/
+# References: https://www.r-bloggers.com/using-rvest-to-scrape-an-html-table/
+# https://stackoverflow.com/questions/6549239/convert-months-mmm-to-numeric
 
 library(rvest)
 library(tidyverse)
